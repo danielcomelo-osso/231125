@@ -1,2 +1,7 @@
 flask==3.0.0
 flask-cors==4.0.0
+gunicorn==22.0.0
+# Adicione aqui todas as outras dependências Python do seu Backend
+# Exemplo:
+# openai==1.50.2
+# supabase-py==2.4.0
